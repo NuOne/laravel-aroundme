@@ -3,6 +3,7 @@ i can see what you can see
 
 # usage
 Clone it to you project folder git clone https://github.com/NuOne/laravel-aroundme.git
+and run "composer update" command to create vendor folder
 
 # google api key
 
